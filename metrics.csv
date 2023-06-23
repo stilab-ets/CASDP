@@ -1,5 +1,5 @@
 Category,Metric,Definition
-process metrics,COMM,The number of Git commits
+Process metrics,COMM,The number of Git commits
 ,ADDED LINES,The normalized number of lines added to the module
 ,DEL LINES,The normalized number of lines deleted from the module
 ,ADEV,The number of active developers
